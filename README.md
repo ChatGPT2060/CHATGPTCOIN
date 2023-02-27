@@ -13,17 +13,17 @@ CHATGPT COIN launched  on February 16th, 2023 with 10,000 billion tokens created
 * IDO 0.5%
 * LIQUIDITY 0.57%(LOCKED)
 
-### Who Are the Founders of CHATGPT COIN (CHATGPT)?
+## Who Are the Founders of CHATGPT COIN (CHATGPT)?
 
 founders young geeks who have created many successful web2 products.
 
 
-### Where Can I Buy CHATGPT COIN (CHATGPT)?
+## Where Can I Buy CHATGPT COIN (CHATGPT)?
 
 You can buy CHATGPT on pancakeswap(https://pancakeswap.finance/swap?outputCurrency=0x4CF54ccF1E1085F6BEdB33488D5884C2C52682b4)
 
 
-#### Related Pages:
+### Related Pages:
 
 Learn more about CHATGPT COIN [here](https://twitter.com/chatgptcoinbsc).
 
